@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: "poppins";
 }
 
 .cabecalho {
@@ -42,4 +43,3 @@
 .escola-titulo{
     padding: 24px 0;
 }
-
